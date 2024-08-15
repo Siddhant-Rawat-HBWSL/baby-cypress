@@ -1,0 +1,23 @@
+{
+  "spanishUrl": "https://staging-babydoppler.humdash.com/us/es-us/",
+  "fetalDopplerUrl": "https://staging-babydoppler.humdash.com/shop/fetal-doppler.html",
+  "downloadAppUrl": "https://staging-babydoppler.humdash.com/download-app",
+  "loginUrl": "https://staging-babydoppler.humdash.com/customer/account/login/",
+  "australiaUrl": "https://staging-babydoppler.humdash.com/au/en-au/",
+  "language": ".inline-flex.justify-center.w-full.text-xs.text-gray-600.font-normal.bg-pink-50.leading-5",
+  "spanish": ".block.text-xs.text-gray-550.py-2",
+  "accountEle": "#customer-menu > span",
+  "downloadBtnEle": ".text-pink-600.text-sm.font-normal.text-center",
+  "dobEle": "[name='subscriber_dob']",
+  "emailEle": "[id='newsletter-subscribe']",
+  "submitBtn": ".subscribe-btn",
+  "errorMsg": ".message.error",
+  "successMsg": ".message.success",
+  "fetalDoppler": "Fetal Doppler",
+  "homeSpanishTrans": "Cuenta",
+  "english": "English",
+  "australia": "Australia",
+  "dob": "2001-05-27",
+  "email": "siddhant.rawat@hbwsl.com",
+  "orderStatus": "Order Status"
+}

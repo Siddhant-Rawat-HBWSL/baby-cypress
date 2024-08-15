@@ -1,0 +1,13 @@
+{
+    "fetalDopplerUrl": "/shop/fetal-doppler.html",
+    "priceFilterUrl": "https://staging-babydoppler.humdash.com/shop/fetal-doppler.html?product_list_order=price",
+    "thermometerUrl": "https://staging-babydoppler.humdash.com/shop/thermometer.html",
+    "productPage": "https://staging-babydoppler.humdash.com/sonoline-b-travel-case-the-official-hermitshell-hard-travel-bag-storage-case-fits-sonoline-baby-doppler-heartbeat-monitor.html",
+    "thermometer": "[data-label='Thermometer']",
+    "thermometerElem": ".flex.align-middle.justify-between.amshopby-filter-parent",
+    "spanElem": "span",
+    "productCardImg": ".product.photo.product-item-photo",
+    "addToCart": "Add to Cart",
+    "cartLabelElem": ".text-base.font-medium.text-neutral",
+    "cartLabel": "Sonoline B Travel Case, the Official Hermitshell Hard Travel Bag/Storage case - Fits Sonoline Baby Doppler Heartbeat Monitor"
+}
